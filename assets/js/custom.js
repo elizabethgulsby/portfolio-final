@@ -44,11 +44,6 @@
 			target: '.navbar-custom',
 			offset: 70
 		})
-
-		// $('#body').scrollspy({
-		// 	target: '#Skills'
-		// 	offset: 70
-		// })
 		
         
 		/* ---------------------------------------------- /*
